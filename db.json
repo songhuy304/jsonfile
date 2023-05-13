@@ -17,6 +17,26 @@
       "title": "hello111"
     }
   ],
+  "comment" : [
+    
+       {
+      "id": 2,
+      "title": "Đẹp Quá "
+    },
+    {
+      "id": 3,
+      "title": "Xin Chào Khoa CNTT"
+    },
+    {
+      "id": 4,
+      "title": "Wo aáđái ni"
+    },
+    {
+      "id": 5,
+      "title": "heâsđâsdlo111"
+    } 
+  
+  ],
   "profile": {
     "name": "typicode"
   }
